@@ -1,0 +1,6 @@
+2025-04-12 20:06:17 - INFO - Loaded image from data\img2.jpg
+2025-04-12 20:06:27 - INFO - Image dimensions: (408, 612, 3)
+2025-04-12 20:06:27 - INFO - Cropped region size for rectangle 1: (82, 89, 3)
+2025-04-12 20:06:27 - INFO - Successfully saved: cropped_region_1.jpg
+2025-04-12 20:06:27 - INFO - Cropped region size for rectangle 2: (81, 75, 3)
+2025-04-12 20:06:27 - INFO - Successfully saved: cropped_region_2.jpg
