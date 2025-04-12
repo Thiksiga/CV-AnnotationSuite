@@ -19,5 +19,5 @@ This Python script provides a graphical interface to annotate an image using the
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/image-annotation-tool.git
-   cd image-annotation-tool
+   git clone https://github.com/Thiksiga/CV-AnnotationSuite.git
+   cd CV-AnnotationSuite
